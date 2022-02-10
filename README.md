@@ -1,6 +1,6 @@
-- 👋 Hello, I’m @Cachafeiro.
+- 👋 Hi, I’m @Cachafeiro.
 - 👀 I’m interested in FinTech & Smart Cities.
-- 🌱 I’m currently learning Risk Analysys, Infrastructure Systems, Derivatives, FinTech and Data Management and Analysis.
+- 🌱 I’m currently learning Risk Analysys, Infrastructure Systems, Derivatives, FinTech, and Data Management and Analysis.
 - 💞️ I’m looking to collaborate on Python.
 - 📫 Reach me at dccr@umich.edu.
 .\
